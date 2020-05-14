@@ -47,7 +47,7 @@ Before you begin this guide you'll need the following:
 * A domain name configured to point to your server. You can learn how to point domains to DigitalOcean Droplets by following the [How To Set Up a Host Name with DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-host-name-with-digitalocean) tutorial.
 -->
 
-## Step 1 — Doing Something
+## Step 1 — Title Case [Doing Something]
 
 <!-- For more information on steps, see https://do.co/style/#steps -->
 
